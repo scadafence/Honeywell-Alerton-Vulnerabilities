@@ -58,9 +58,6 @@ knowledge of other users, altering the controller's function. After the
 programming change, the program needs to be overwritten in order for
 the controller to restore its original operational function.
 
-[Additional Information]
-Detailed PoC can be send via email in zip format. Please contact us at yossi@scadafence.com
-
 [VulnerabilityType Other]
 Inclusion of functionality from untrusted control sphere (CWE-829)
 
@@ -101,9 +98,6 @@ crafted packet to change and/or stop the program without the
 knowledge of other users, altering the controller's function. After the
 programming change, the program needs to be overwritten in order for
 the controller to restore its original operational function.
-
-[Additional Information]
-Detailed PoC can be send via email in zip format. Please contact us at yossi@scadafence.com
 
 [VulnerabilityType Other]
 Inclusion of functionality from untrusted control sphere (CWE-829)
@@ -150,9 +144,6 @@ the configuration display and the actual configuration on the
 controller. After the configuration change, remediation requires
 reverting to the correct configuration, requiring either physical or
 remote access depending on the configuration that was altered.
-
-[Additional Information]
-Detailed POC can be send in zip via email. Please contact us at yossi@scadafence.com
 
 [VulnerabilityType Other]
 Configuration Change (CWE 15)
