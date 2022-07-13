@@ -3,7 +3,7 @@ Alerton Ascent Control Module (ACM) &amp; Alerton Visual Logic vulnerabilities
 
 
 CVE-2022-30242
-
+--
 [Suggested description]
 Alerton Ascent Control Module (ACM) through 2022-05-04 allows unauthenticated configuration
 changes from remote users. This enables configuration data to be stored
@@ -48,7 +48,7 @@ https://www.honeywell.com/us/en/product-security
 ----------------------------------------------------------------------------------------------------------------
 
 CVE-2022-30243
-
+--
 [Suggested description]
 Alerton Visual Logic through 2022-05-04 allows unauthenticated programming writes
 from remote users. This enables code to be stored on the controller and
@@ -92,7 +92,7 @@ https://www.honeywell.com/us/en/product-security
 ----------------------------------------------------------------------------------------------------------------
 
 CVE-2022-30244
-
+--
 [Suggested description]
 Alerton Ascent Control Module (ACM) through 2022-05-04 allows unauthenticated programming writes
 from remote users. This enables code to be store on the controller and
@@ -137,7 +137,7 @@ https://www.honeywell.com/us/en/product-security
 ----------------------------------------------------------------------------------------------------------------
 
 CVE-2022-30245
-
+--
 [Suggested description]
 Alerton Compass Software 1.6.5 allows unauthenticated configuration
 changes from remote users. This enables configuration data to be stored
